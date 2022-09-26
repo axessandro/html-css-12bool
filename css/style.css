@@ -1,0 +1,26 @@
+[class*="col-"]{
+    background-color: rgb(60, 128, 238);
+    border: 1px solid white;
+    height: 35px;
+    text-align: center;
+    line-height: 35px;
+    color: white;
+}
+
+.nested{
+    background-color: rgb(117, 195, 0);
+    border: 1px solid rgb(60, 128, 238);
+}
+
+.nested-row{
+    
+}
+
+.big-row{
+    padding: 10px 5px;
+    height: auto;
+}
+
+section{
+    margin-bottom: 15px;
+}
